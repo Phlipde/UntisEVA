@@ -1,0 +1,22 @@
+{
+  "name": "untiseva",
+  "version": "0.0.1",
+  "description": "Sync your webuntis with Google calendar",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Philipp",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "webuntis": "^2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no repo"
+  },
+  "devDependencies": {}
+}
