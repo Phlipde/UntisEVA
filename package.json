@@ -4,7 +4,9 @@
   "description": "Sync your webuntis with Google calendar",
   "main": "index.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "npm install",
+    "start": "node app.mjs"
   },
   "keywords": [],
   "author": "Philipp",
@@ -16,7 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "no repo"
+    "url": "git+https://github.com/Phlipde/UntisEVA.git"
   },
-  "devDependencies": {}
+  "bugs": {
+    "url": "https://github.com/Phlipde/UntisEVA/issues"
+  },
+  "homepage": "https://github.com/Phlipde/UntisEVA#readme"
 }
